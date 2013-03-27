@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/javax_jmi-1_0-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/md_api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/md_common_api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/md_foundation_1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/org.eclipse.emf.cdo.common_4.0.1.custom.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/org.eclipse.emf.cdo.net4j_4.0.0.custom.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/org.eclipse.emf.cdo_4.0.1.custom.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/org.eclipse.emf.common_2.7.0.v20110513-1719.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/org.eclipse.emf.ecore.change_2.7.0.v20110408-2116.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/org.eclipse.emf.ecore.xmi_2.7.0.v20110411-2239.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/org.eclipse.emf.ecore_2.7.0.v20110513-1719.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/org.eclipse.emf.transaction_1.4.0.v20100331-1738.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/MagicDraw UML 17.0.3/lib/uml2.jar"/>
+	<classpathentry kind="lib" path="ModelCenter.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
