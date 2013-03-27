@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+	id="edu.gatech.mbse.plugins.mdmc"
+	name="MBSEC SysML-ModelCenter Integration"
+	version="17.0.2"
+	provider-name="Georgia Tech"
+	class="edu.gatech.mbse.plugins.mdmc.controller.ModelCenterPlugin">
+	<requires>
+		<api version="1.0" />
+	</requires>
+	<runtime>
+		<library name="Plugin.jar"/>
+		<library name="ModelCenter.jar"/>
+	</runtime>
+</plugin>

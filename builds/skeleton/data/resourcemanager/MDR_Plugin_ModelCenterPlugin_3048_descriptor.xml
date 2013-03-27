@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resourceDescriptor
+	critical="false"
+	date="2011-09-14-05:00"
+	description="Tool integration of MagicDraw UML and Phoenix ModelCenter to allow for SysML models to be transformed to ModelCenter models for solving purposes"
+	homePage="http://www.mbse.gatech.edu/"
+	id="3048"
+	mdVersionMax="higher"
+	mdVersionMin="17.0.2"
+	name="MBSEC SysML-ModelCenter Integration"
+	type="Plugin"
+	product="ModelCenter Plugin">
+	<version human="17.0.2" internal="5" />
+	<provider name="Georgia Institute of Technology" />
+	<edition>Enterprise</edition>
+	<edition>Architect</edition>
+	<edition>Standard</edition>
+	<edition>Professional Java</edition>
+	<edition>Professional C++</edition>
+	<edition>Professional C#</edition>
+	<edition>Professional ArcStyler</edition>
+	<edition>Reader</edition>
+	<edition>OptimalJ</edition>
+	<requiredResource id="1440">
+		<minVersion human="17.0" internal="1700000" /> 
+	</requiredResource>
+	<installation>
+		<file from="plugins/edu.gatech.mbse.plugins.mdmc/*.*" to="plugins/edu.gatech.mbse.plugins.mdmc/*.*" />
+		<file from="profiles/ModelCenterProfile.mdzip" to="profiles/ModelCenterProfile.mdzip" />
+		<file from="samples/MBSEC SysML-ModelCenter Integration/*.*" to="samples/MBSEC SysML-ModelCenter Integration/*.*" />
+	</installation>
+</resourceDescriptor>
