@@ -1,6 +1,6 @@
 h1. SysML-ModelCenter Integration for NoMagic MagicDraw
 
-_"By Sebastian J. I. Herzig and Christiaan J. J. Paredis"_
+_By Sebastian J. I. Herzig and Christiaan J. J. Paredis_
 
 The SysML-ModelCenter integration is a plugin for the NoMagic MagicDraw UML modeling tool that enables modelers to integrate a system model with an analysis model through model transformation. Use of this plugin enables the automatic generation of (partial) analysis models from a descriptive system model, their automatic execution and the feedback of the results back into the SysML model.
 
