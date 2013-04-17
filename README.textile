@@ -10,7 +10,7 @@ h2. Getting Started
 
 It is easiest to start off with a pre-built package:
 
-* Download the latest build from the repository
+* Download the latest build from the repository ["build 108":https://github.com/sherzig/SyMo/blob/master/builds/MagicDraw_-_ModelCenter_Plugin_17.0.2_108.zip]
 * Start MagicDraw with administrative rights
 * Launch the Resource / Plugin Manager from the Help menu
 * Import the downloaded zip file
