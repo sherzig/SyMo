@@ -16,7 +16,7 @@ It is easiest to start off with a pre-built package:
 * Import the downloaded zip file
 * Restart MagicDraw
 
-Two tutorials are automatically installed with the plugin and are accessible on the home screen when starting up MagicDraw. These demonstrate the basic capabilities of the plugin, but not all of them. Certain functionality, such as working with multiplicities (e.g. for cost or mass rollups), working with redefined properties is available, but not demonstrated. Please contact Sebastian (sebastian.herzig@gatech.edu) for further information.
+Two tutorials are automatically installed with the plugin and are accessible on the home screen when starting up MagicDraw. These demonstrate the basic capabilities of the plugin, but not all of them. Certain functionality, such as working with properties of aggregate elements (e.g. for cost or mass rollups), working with redefined properties and working with multiple values for one property (in combination with aggregate elements to work with matrices) is available, but not demonstrated. Please contact Sebastian (sebastian.herzig@gatech.edu) for further information.
 
 h2. Runtime Dependencies
 
