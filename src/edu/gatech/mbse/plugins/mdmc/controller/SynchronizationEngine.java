@@ -629,7 +629,7 @@ public class SynchronizationEngine {
 		if(type.equals("Real") || type.equals("double") || type.equals("$OCL_Real") || type.equals("float"))
 			return "double" + typeModifier;
 		else if(type.equals("Integer") || type.equals("integer") || type.equals("$OCL_Integer") || type.equals("int"))
-			return "integer" + typeModifier;
+			return "int" + typeModifier;
 		else if(type.equals("String") || type.equals("string") || type.equals("$OCL_String"))
 			return "string" + typeModifier;
 		else if(type.equals("Boolean") || type.equals("boolean") || type.equals("$OCL_Boolean") || type.equals("bool"))

@@ -112,6 +112,8 @@ public class OpenModelInModelCenterAction extends DefaultBrowserAction {
 				ModelCenterPlugin.getModelCenterInstance().loadModel(filename);
 			}
 			catch (ModelCenterException e) {
+				e.printStackTrace();
+				
 				JOptionPane.showMessageDialog(MDDialogParentProvider.getProvider().getDialogParent(), "Failed to open associated ModelCenter model at specified filename", "ModelCenter Plugin", JOptionPane.ERROR_MESSAGE);
 				
 				Application.getInstance().getGUILog().log(e.getMessage());

@@ -1,2 +1,5 @@
+12/06/2013
+- Fixed a bug in SynchronizationEngine::getModelCenterTypeForSysMLType(Port variable), where a ModelCenter variable type "integer" was assumed to exist, while, instead, the correct type is "int"
+
 03/26/2013
-Initial import of project into git repository (previously stored in a local svn repository). Note that certain portions of the code are planned features / cleanups / enhancements that have not yet been integrated / finished. This changelog will be updated once changes have been performed.
+- Initial import of project into git repository (previously stored in a local svn repository). Note that certain portions of the code are planned features / cleanups / enhancements that have not yet been integrated / finished. This changelog will be updated once changes have been performed.
